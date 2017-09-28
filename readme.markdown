@@ -9,7 +9,7 @@
   Find all non-matching index ranges of a substring within a string.
   
   Given:
-  ```ruby
+  ```
   partial term: 'eg'
   full term: 'eggwhites eggnog'
   ```
