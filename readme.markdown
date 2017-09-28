@@ -1,6 +1,8 @@
 # Algorithms
 
  Push up a solution, or two or three. Could be O(N2) or linear. More algorithm challenges to follow.
+
+ To do a challenge, navigate to the folder with your name. Pick your language, push it up.
  
  ###  Non Matching Ranges
   
