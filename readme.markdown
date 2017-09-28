@@ -1,6 +1,6 @@
 # Algorithms
 
- Push up a solution, or two or three. Could be O(N2) or linear. More algorithm challengs to follow.
+ Push up a solution, or two or three. Could be O(N2) or linear. More algorithm challenges to follow.
  
  ###  Non Matching Ranges
   
